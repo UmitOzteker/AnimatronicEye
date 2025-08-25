@@ -1,4 +1,5 @@
 # Animatronic Eyes Project 👀🤖
+![GitHub Total Commits](https://img.shields.io/github/commit-activity/t/UmitOzteker/Labyrinth_Game_Project) ![GitHub Last Commit](https://img.shields.io/github/last-commit/UmitOzteker/Labyrinth_Game_Project) ![GitHub Issues](https://img.shields.io/github/issues/UmitOzteker/Labyrinth_Game_Project)
 
 This project uses an **STM32F031K6** microcontroller to create animatronic eyes controlled by an analog joystick. At its core, the system features **6 servo motors**: two for primary eye movement (pan and tilt), and four dedicated to independently controlling each eyelid. When the joystick remains inactive for a set period, the system automatically transitions into a random movement mode, bringing the eyes to life.
 
