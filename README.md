@@ -4,7 +4,7 @@ This project uses an **STM32F031K6** microcontroller to create animatronic eyes 
 
 
 ```markdown
-![Project Overview](Image/AnimatronicEye.jpeg)
+![Project Overview](https://github.com/user-attachments/assets/7afbbcc9-9dc7-4644-a57c-91dc8090153d)
 ```
 
 ## ✨ Key Features
