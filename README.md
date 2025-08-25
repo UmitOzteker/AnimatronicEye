@@ -3,9 +3,9 @@
 This project uses an **STM32F031K6** microcontroller to create animatronic eyes controlled by an analog joystick. At its core, the system features **6 servo motors**: two for primary eye movement (pan and tilt), and four dedicated to independently controlling each eyelid. When the joystick remains inactive for a set period, the system automatically transitions into a random movement mode, bringing the eyes to life.
 
 
-```markdown
-![Project Overview](https://github.com/user-attachments/assets/7afbbcc9-9dc7-4644-a57c-91dc8090153d)
-```
+
+![AnimatronicEye](https://github.com/user-attachments/assets/3de86c64-fa84-479c-9cfe-ac2aea9f51a6)
+
 
 ## ✨ Key Features
 
