@@ -1,0 +1,60 @@
+# STM32CubeIDE Build Artifacts
+build/
+Debug/
+Release/
+
+# Executable and Object Files
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+
+# Keil uVision
+*.bak
+*.sct
+*.uvoptx
+*.uvprojx
+*.uvguix.username
+*.o
+*.axf
+*.d
+
+# IAR Embedded Workbench
+*.ewp
+*.ewd
+*.ewt
+*.wsdt
+*.dep
+*.o
+*.out
+*.a
+
+# Atollic TrueSTUDIO
+.cproject
+.project
+.settings/
+.launch
+.log
+
+# STM32CubeIDE Project Files
+.mxproject
+.mxperspectives
+.metadata/
+.history/
+
+# Other IDE Files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.bak
+*.srec
+
+# Other temporary files
+*~
+*.swp
+*.tmp
+*.log
